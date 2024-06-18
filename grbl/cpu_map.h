@@ -1,4 +1,7 @@
 /*
+  Modified by Sarthak Diwan 
+  Setup to work with Stepcraft D-840 CNC 
+
   cpu_map.h - CPU and pin mapping configuration file
   Part of Grbl
 
